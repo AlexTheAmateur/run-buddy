@@ -3,6 +3,27 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
+section {
+    padding: 60px;
+}
+
+.primary-border {
+    border-color: #fce138;
+}
+  
+.secondary-border {
+    border-color: #39a6b2;
+}
+
 body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
@@ -87,13 +108,7 @@ border: 1px solid #024e76;
     text-align: center;
 }
 .intro h2 {
-    display: inline-block;
-    font-size: 55px;
-    color: #024e76; 
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
-    border-color: #fce138;
+
 }
 .intro p {
     line-height: 1.7;
@@ -102,6 +117,34 @@ border: 1px solid #024e76;
     font-size: 20px;
     margin: 0 auto;
 }
+
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+.steps h2 {
+   
+}
+.steps div {
+    margin-bottom: 80ox;
+}
+.steps img {
+    width: 15%;
+    margin: 10px 0;
+}
+.steps h3 {
+    color: #024e76;
+    font-size: 46px;
+    margin-top: 10px;
+}
+.steps p {
+    color: #39a6b2;
+    font-size: 23px;
+}
+.steps span {
+    font-size: 38px;
+}
+
 footer {
     background: #fce138;
     width: 100%;
@@ -120,9 +163,6 @@ footer div {
 }
 footer a {
     color: #024e76;
-}
-section {
-    padding: 60px;
 }
 
   /* Applies 20px to every side (top, right, bottom, left)
