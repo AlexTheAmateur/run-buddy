@@ -111,9 +111,6 @@ border: 1px solid #024e76;
 .intro {
     text-align: center;
 }
-.intro h2 {
-
-}
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -125,9 +122,6 @@ border: 1px solid #024e76;
 .steps {
     text-align: center;
     background: #fce138;
-}
-.steps h2 {
-   
 }
 .steps div {
     margin-bottom: 80ox;
