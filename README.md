@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://AlexTheAmateur.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Alex Wu
+Made with ❤️  by Alex Wu
