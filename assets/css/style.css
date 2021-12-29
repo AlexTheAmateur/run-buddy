@@ -141,6 +141,8 @@ border: 1px solid #024e76;
 
 .steps {
     background: #fce138;
+}
+.step {
     margin: 50px auto;
     padding-bottom: 50px;
     width: 80%;
